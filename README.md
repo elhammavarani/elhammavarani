@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi there 👋 I'm Elham
 
-<!--
-**elhammavarani/elhammavarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 💻 Data and Python developer
+ 📊 Passionate about data analysis and problem solving
+ 🧨 Always learning and building
 
-Here are some ideas to get you started:
+ ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 🛠️ Skills & Tools
+
+ ### 👩‍💻 Programming
+ - Python
+ - SQL
+
+ ### 📊 Data Analysis
+ - Numpy
+ - Pandas
+ - Matplotlib
+ - Excel
+
+ ### 🔧 Tools
+ - Git
+ - GitHub
+
+ ### 📈 What I Do
+ - Data cleaning & preprocessing
+ - Data visualization
+ - Working with databases
+ - Building analytical scripts in Python
+
+ ---
+
+ ## 🤝 Connect with me
+ - Telegram: https://t.me/elhm_mv
+ - WhatsApp: https://wa.me/989148381752
+ - Email: elhammavarany@gmail.com
+
+ ---
+
+🎀 Thanks for visiting my profile!
+
