@@ -62,7 +62,7 @@ Sales data analysis using Python, Pandas, NumPy, Matplotlib, and Seaborn to iden
 - Backend Development
 
 ## 🤝 Connect With Me
-📧 Email: elhammavarany@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/elhammavarani/
+- 📧 Email: elhammavarany@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/elhammavarani/
 
 ⭐️ Thanks for visiting my profile!
