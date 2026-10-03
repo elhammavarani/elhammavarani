@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Elham
 
 💻 Junior Python / Django Developer
+
 📊 Interested in Data Analysis & Backend Development
+
 🎓 Computer Science Student at the University of Tabriz
 
 
