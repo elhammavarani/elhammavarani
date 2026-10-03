@@ -1,41 +1,67 @@
-## Hi there 👋 I'm Elham
+Hi there 👋 I'm Elham
+💻 Junior Python / Django Developer
+📊 Interested in Data Analysis & Backend Development
+🎓 Computer Science Student at the University of Tabriz
 
- 💻 Data and Python developer
- 📊 Passionate about data analysis and problem solving
- 🧨 Always learning and building
 
- ---
+I build web applications with Python and Django and enjoy working with data to discover useful insights and solve real-world problems.
 
- ## 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
 
- ### 👩‍💻 Programming
- - Python
- - SQL
+## 👩‍💻 Programming & Backend
+- Python
+- Django
+- Django ORM
+- Django Forms
+- Django Admin
+- SQL
 
- ### 📊 Data Analysis
- - Numpy
- - Pandas
- - Matplotlib
- - Excel
+## 🗄️ Database
+- PostgreSQL
 
- ### 🔧 Tools
- - Git
- - GitHub
+## 🌐 Web
+- HTML
+- CSS
+- JavaScript (Basic)
 
- ### 📈 What I Do
- - Data cleaning & preprocessing
- - Data visualization
- - Working with databases
- - Building analytical scripts in Python
+## 📊 Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis
+- Data Visualization
 
- ---
+## 🔧 Tools
+- Git
+- GitHub
+- Power BI
+- Excel
 
- ## 🤝 Connect with me
- - Telegram: https://t.me/elhm_mv
- - WhatsApp: https://wa.me/989148381752
- - Email: elhammavarany@gmail.com
+## 🚀 Featured Projects
 
- ---
+## 📌 Claims Management System
+A web-based claims management system developed with Python, Django, and PostgreSQL for managing corporate receivables, due dates, outstanding amounts, and payment delays.
 
-🎀 Thanks for visiting my profile!
+Key technologies: Python · Django · PostgreSQL · Django ORM · HTML · CSS · Git
 
+🔒 Private commercial project — source code is not publicly available.
+
+## 📊 Retail Sales Analysis
+Exploratory data analysis of retail sales data using Pandas, NumPy, Matplotlib, and Seaborn, including data cleaning, statistical analysis, visualization, and business insights.
+
+## 🍕 Pizza Sales Analysis
+Sales data analysis using Python, Pandas, NumPy, Matplotlib, and Seaborn to identify sales trends, product performance, and business insights.
+
+## 🎯 Currently Learning
+- Django REST Framework
+- Advanced SQL
+- JavaScript
+- Backend Development
+
+## 🤝 Connect With Me
+📧 Email: elhammavarany@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/elhammavarani/
+
+⭐️ Thanks for visiting my profile!
